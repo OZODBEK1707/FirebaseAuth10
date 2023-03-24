@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FirebaseAuth10</string>
+    <string name="number">Number:</string>
+    <string name="login">Login</string>
+    <string name="resend_code">resend code</string>
+    <string name="entering_with_phone_number">Entering with Phone Number</string>
+</resources>
